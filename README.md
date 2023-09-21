@@ -1,5 +1,6 @@
 # Grid-magazine
-hosted link: https://geekstervatsa.github.io/Grid-magazine/ (check screenshots for ui similarity)
+hosted link: https://aquamarine-shannen-13.tiiny.site/ 
+(check screenshots for ui similarity)
 
 ## Hero section
 ![image](https://github.com/GeeksterVatsa/Grid-magazine/assets/144803484/e70d80cd-f665-4e8a-a201-c3e7f9f791b8)
